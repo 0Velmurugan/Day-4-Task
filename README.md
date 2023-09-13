@@ -1,4 +1,4 @@
-# ZEN-js-task-5
+# ZEN-js-task-4
 
 Done in the below programs in anonymous function & IIFE & arrow functions
 Print odd numbers in an array
